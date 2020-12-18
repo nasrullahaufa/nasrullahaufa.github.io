@@ -1,0 +1,40 @@
+html, body, ul {
+
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+header {
+    background-color: brown;
+}
+
+header h1 {
+    margin: 0;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.isi {    
+    
+    background-size: auto;
+    background-repeat: repeat;
+    height: 80vh;
+    align-items: center;
+}
+body {
+   background-image: url('./img/background.jpg');
+    
+    align-items: center;
+    justify-content: center;
+  }
+  canvas {
+    border: 1px solid orange;
+  }
+
